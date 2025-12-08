@@ -37,5 +37,5 @@ Hi 👋 I'm Vamsi Manohar
 ---
 
 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: www.linkedin.com/in/vamsi-ivm
 - 📧 Email: manohar.ivm888@gmail.com
