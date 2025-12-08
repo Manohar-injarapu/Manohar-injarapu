@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi 👋 I'm Vamsi Manohar
 
-<!--
-**Manohar-injarapu/Manohar-injarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 **Senior Modem Test Engineer | 5G NR & LTE**  
+🐍 **Python Automation | AI/ML for Log Analysis**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 About Me
+- Experienced in **5G / LTE modem testing**
+- Strong in **DSDS, CA, ENDC, EPS fallback**
+- Building **Python automation Modem Test framework (MTFpy)**
+- Exploring **AI/ML to improve test analytics & quality**
+
+---
+🧰 Tech Stack
+- **Telecom:** 5G NR, LTE, NSA/SA, DSDS, Carrier Aggregation
+- **Automation:** Python, PyTest, Jenkins
+- **Tools:** QXDM, PCAT, Qualcomm tools
+- **Data/ML:** Pandas, NumPy, Scikit-Learn (Basics)
+- **Databases:** SQL Server
+
+---
+
+📂 Featured Projects
+- ✅ `5g-modem-test-notes`
+- ✅ `python-automation-telecom`
+- ✅ `log-analysis-ml`
+- ✅ `sql-practice`
+
+---
+
+🎯 Current Focus
+- AI/ML-driven modem log analysis  
+- Scalable automation for 5G validation  
+- Preparing for **5G Specialist / Lead roles**
+
+---
+
+📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: manohar.ivm888@gmail.com
