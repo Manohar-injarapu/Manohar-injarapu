@@ -1,6 +1,6 @@
 Hi 👋 I'm Vamsi Manohar
 
-# Vamsi Manohar – Telecom & 5G Modem Test Aanlytics Engineer
+# Vamsi Manohar – Telecom & 5G Modem Test Analytics Engineer
 
 **Telecom professional with 9+ years of multi-vendor experience in 5G, LTE, VoLTE, IMS, and modem system testing.**  
 Proficient in log analysis, integration, automation, and network troubleshooting with expertise in Multivendor UE-RAN. Skilled in automation setup, test data analytics, and real-time issue resolution.
