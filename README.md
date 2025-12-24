@@ -2,86 +2,109 @@ Hi 👋 I'm Vamsi Manohar
 
 # Vamsi Manohar – Telecom & 5G Modem Test Analytics Engineer
 
-**Telecom professional with 9+ years of multi-vendor experience in 5G, LTE, VoLTE, IMS, and modem system testing.**  
-Proficient in log analysis, integration, automation, and network troubleshooting with expertise in Multivendor UE-RAN. Skilled in automation setup, test data analytics, and real-time issue resolution.
+## 🧑‍💻 About Me
+
+I am a **Telecom Professional with 9+ years of experience** in **5G, LTE, VoLTE, IMS, and Modem System Testing**, currently working as a **Modem Test Engineer at Capgemini (Client: Qualcomm)**.
+
+I specialize in:
+- End-to-end **5G/LTE modem validation**
+- **Automation using Python**
+- **Log analysis & debugging**
+- **Exploratory Data Analysis (EDA)** for test data insights
+
+I enjoy bridging **telecom domain expertise** with **data analytics and automation** to improve quality, efficiency, and release timelines.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Skills & Technologies
 
-**Telecom Technologies:**  
-5G SA/NSA, ENDC, LTE, VoLTE, IMS, GSM, WCDMA  
+### 📡 Telecom & Networking
+- 5G SA / NSA, ENDC, LTE, VoLTE, IMS
+- DSDS / DSDA, Carrier Aggregation, EPS Fallback
+- 3GPP Protocols, UE–RAN Interoperability
 
-**OEM Equipment:**  
-Nokia, Huawei, Samsung, Qualcomm UE Modem, Simulators  
+### 🧪 Testing & Debugging
+- QXDM, PCAT, Qualcomm TBS & Apps
+- Throughput Testing (IPERF3)
+- Real-time Network Issue Analysis (OOS, RLF, KPI drops)
 
-**Software & Automation:**  
-Python, NumPy, Pandas, Matplotlib, Data Analysis, Jenkins, MTFpy, Axiom  
+### 🤖 Automation & Programming
+- **Python**, Pandas, NumPy, Matplotlib
+- Jenkins, MTFpy (Modem Test Framework – Python)
+- Test Automation & CI/CD Integration
 
-**Log Analysis & Debugging:**  
-QXDM, PCAT, Qualcomm TBS & Apps  
+### 📊 Data Analytics & AI
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Statistical Analysis
+- Visualization for Test Insights
 
-**Network & RAN Tools:**  
-Nokia NetAct, Samsung LSMR  
-
-**Remote Access & Troubleshooting:**  
-CITRIX, Putty, SecureCRT, FileZilla  
-
-**Ticketing & Issue Tracking:**  
-BMC Remedy (PT4 TT Tool), Jira  
-
-**Hardware & Lab Equipment:**  
-Keysight, M101 Attenuator, Multi-SIM setups, Topcat  
-
-**Soft Skills:**  
-Problem solving, people management, streamlining & systematic maintenance  
+### 🧰 Tools & Platforms
+- Nokia, Huawei, Samsung, Qualcomm UE Modems
+- Keysight, Attenuator, Multi-SIM, Topcat
+- Jira, BMC Remedy, Citrix, SecureCRT, FileZilla
 
 ---
 
 ## 💼 Professional Experience
 
-### **Modem Test Engineer | Capgemini (Client: Qualcomm) | Sep 2020 – Present | Hyderabad**  
-- Led end-to-end validation of 5G NR/LTE modem features (multi-SIM DSDS/DSDA, NSA/SA, ENDC, EPS fallback) using manual & automated test cases.  
-- Resolved critical issues (OOS, RLF, RSRP drops, automation failures), enhancing modem reliability and speeding software release cycles.  
-- Implemented automation using Python frameworks and Attenuator on real-time networks, reducing setup and execution time for validation cycles.  
+### 🔹 Modem Test Engineer  
+**Capgemini (Client: Qualcomm)** | *Sep 2020 – Present*
 
-### **Senior Engineer | Tech Mahindra (Client: Rakuten, 3UK) | May 2019 – Sep 2020 | Bangalore**  
-- Validated LTE UE modem throughput using IPERF3 across real-world conditions, analyzed KPIs (RSRP, RSRQ, CQI).  
-- Collaborated with RF & firmware teams, providing actionable insights to improve network performance.  
+- Led validation of **5G NR/LTE modem features** including DSDS/DSDA, SA/NSA, ENDC
+- Designed & executed **manual and automated test cases**
+- Reduced test cycle time using **Python-based automation**
+- Debugged critical issues using QXDM & PCAT
+- Worked closely with protocol and development teams
 
-### **LTE Engineer | Indovision Services (Client: Reliance Jio) | May 2018 – May 2019 | Mumbai**  
-- Executed throughput tests across varying signal conditions, producing PASS/FAIL reports per 3GPP standards.  
-- Integrated Samsung eNodeBs and monitored alarms, maintaining 99.9% operational uptime.  
+### 🔹 Senior Engineer  
+**Tech Mahindra (Client: Rakuten, 3UK)** | *May 2019 – Sep 2020*
 
-### **RAN Engineer | UST Global (Client: Nokia, Huawei Networks) | Sep 2016 – Apr 2018 | Chennai**  
-- Managed integration/configuration of GSM, 3G, LTE sites, performed LTE parameter changes, and resolved call routing issues.  
-- Conducted daily health checks with NetAct, ensuring network performance and integrity.  
+- LTE UE throughput testing using **IPERF3**
+- KPI analysis (RSRP, RSRQ, CQI) and performance optimization
+- Delivered actionable insights to RF & firmware teams
 
-### **Telecom Engineer | Rashtriya Ispat Nigam Ltd (Client: BSNL) | Sep 2012 – Nov 2013 | Visakhapatnam**  
-- Maintained 99.9% network uptime as first-line NOC support, escalating critical alarms promptly.  
+### 🔹 LTE / RAN Engineer  
+**Indovision Services | UST Global | RINL (BSNL)**  
+*2012 – 2019*
+
+- LTE integration, alarm monitoring, site configuration
+- Network optimization & 99.9% uptime assurance
+
+---
+
+## 📂 Projects
+
+🔹 **Employee Performance EDA**  
+- Data cleaning, visualization & statistical analysis  
+- Python, Pandas, Matplotlib  
+
+🔹 **EDA Projects (HR, Hospital, Telecom datasets)**  
+- Insight-driven analysis for decision-making  
+
+🔹 **Python Automation for Modem Testing**  
+- CI-integrated test execution & reporting  
+
+👉 Explore all projects here:  
+🔗 **[GitHub Repositories](https://github.com/Manohar-injarapu)**
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **B.Tech in Electronics & Communication** – Avanthi Engineering College, JNTU | 2012 | 73%  
-- **Intermediate (M.P.C)** – Sri Chaitanya Junior College | 2008 | 91%  
-- **Full Stack Data Science & AI** – Naresh i Technologies (Python, ML, DL, AI, SQL, Data Visualization)  
-- Internal Training: LTE Protocol Testing, LTE & LTE Advanced, 5G NR (Qualcomm, Hyderabad)  
-- Udemy Certifications: Python Automation, API, CI/CD, Azure Cloud, AI Foundations  
-- Trained on software engine & GenAI assistant for test case generation and verification (Capgemini)  
-- **Awards:** Silver Medal – District-Level Athletics Competition, Visakhapatnam  
+- 🎓 **B.Tech – Electronics & Communication Engineering** (JNTU)
+- 📜 Full Stack Data Science & AI – Python, ML, DL, SQL
+- 📜 Python Automation, CI/CD, Azure Cloud & AI (Udemy)
+- 🏅 Silver Medal – District Level Athletics
+- 🧠 Internal Training: LTE, LTE-A, 5G-NR (Qualcomm)
 
+---
 
-## ⚡ Highlights
+## 🎯 Career Interests
 
-- 9+ years of experience in multi-vendor telecom environments  
-- Expertise in 5G/LTE modem testing, automation, and real-time troubleshooting  
-- Skilled in log analysis, network performance evaluation, and multi-SIM setups  
-- Strong foundation in Python, data analysis, and test automation frameworks  
-
-
-
+- 5G / Modem System Validation Leadership
+- Telecom Test Automation Architect
+- Data Analytics
+- Remote-friendly & high-impact engineering roles
 
 ---
 
