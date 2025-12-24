@@ -31,8 +31,7 @@ I enjoy bridging **telecom domain expertise** with **data analytics and automati
 ### 🤖 Automation & Programming
 - **Python**, Pandas, NumPy, Matplotlib
 - Jenkins, MTFpy (Modem Test Framework – Python)
-- Test Automation & CI/CD Integration
-
+- Test Automation
 ### 📊 Data Analytics & AI
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Statistical Analysis
@@ -101,8 +100,8 @@ I enjoy bridging **telecom domain expertise** with **data analytics and automati
 
 ## 🎯 Career Interests
 
-- 5G / Modem System Validation Leadership
-- Telecom Test Automation Architect
+- 5G / Modem System Validation
+- Telecom Test Automation 
 - Data Analytics
 - Remote-friendly & high-impact engineering roles
 
